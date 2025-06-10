@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌸 Olá, eu sou a Carol Cortat!
 
-<!--
-**carolcortat/carolcortat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Apaixonada por tecnologia, sempre em busca de novos aprendizados e desafios.  
+🎓 Estudante dedicada, explorando o mundo do desenvolvimento web e além.  
+🌱 Atualmente, focada em aprimorar minhas habilidades em programação e contribuir para projetos incríveis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Meus Projetos
+
+Aqui estão alguns dos projetos que tenho trabalhado:
+
+- [Imersão DEV - Alura](https://github.com/carolcortat/Imers-o-DEV---Alura): Projeto desenvolvido durante a Imersão DEV da Alura.
+- [NLW #17 - Trilha Iniciante](https://github.com/carolcortat/NLW-17---Trilha-Iniciante): Controle de metas via terminal.
+- [Curso Full Stack - Rocketseat](https://github.com/carolcortat/Curso-Full-Stack---Rocketseat): Projetos desenvolvidos durante o curso Full Stack da Rocketseat.
+- [Projeto Nikel - Coda 2.0](https://github.com/carolcortat/Projeto-Nikel---Coda--2.0): Projeto colaborativo com foco em desenvolvimento web.
+
+---
+
+## 💼 Habilidades
+
+- **Linguagens:** HTML, CSS, JavaScript
+- **Ferramentas:** Git, GitHub
+- **Aprendendo:** React, Node.js
+
+---
+
+## 📫 Vamos nos conectar!
+
+- [LinkedIn](https://www.linkedin.com/in/caroline-cortat-71b472353/)
+
+---
+
+✨ Obrigada por visitar meu perfil! Estou sempre aberta a colaborações e novas oportunidades de aprendizado.
