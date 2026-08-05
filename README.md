@@ -2,7 +2,7 @@
 
 ✨ Apaixonada por tecnologia, sempre em busca de novos aprendizados e desafios.  
 🎓 Estudante dedicada, explorando o mundo do desenvolvimento web e além.  
-🌱 Atualmente, focada em aprimorar minhas habilidades em programação e contribuir para projetos incríveis.
+🌱 Atualmente, focada em aprimorar minhas habilidades em Quality Assurance e contribuir para projetos incríveis.
 
 ---
 
@@ -21,7 +21,7 @@ Aqui estão alguns dos projetos que tenho trabalhado:
 
 - **Linguagens:** HTML, CSS, JavaScript
 - **Ferramentas:** Git, GitHub
-- **Aprendendo:** React, Angular, PHP
+- **Aprendendo:** Cypress, Postman, JavaScript
 
 ---
 
