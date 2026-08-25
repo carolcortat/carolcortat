@@ -10,8 +10,8 @@
 
 Aqui estão alguns dos projetos que tenho trabalhado:
 
-- [Imersão DEV - Alura](https://github.com/carolcortat/Imers-o-DEV---Alura): Projeto desenvolvido durante a Imersão DEV da Alura.
-- [NLW #17 - Trilha Iniciante](https://github.com/carolcortat/NLW-17---Trilha-Iniciante): Controle de metas via terminal.
+- [Automação de Ecommerce Luma](https://github.com/carolcortat/E-Commerce-E2E-Automation/tree/main): Projeto de conclusão do curso, desenvolvido durante o Bootcamp de Quality Assurance - Atlantico Avanti.
+- [Plano de Testes - Ecommerce Luma](https://github.com/carolcortat/QA_Luma_Tests): Projeto de conclusão do curso, desenvolvido durante o Bootcamp de Quality Assurance - Atlantico Avanti.
 - [Curso Full Stack - Rocketseat](https://github.com/carolcortat/Curso-Full-Stack---Rocketseat): Projetos desenvolvidos durante o curso Full Stack da Rocketseat.
 - [Projeto Nikel - Coda 2.0](https://github.com/carolcortat/Projeto-Nikel---Coda--2.0): Projeto colaborativo com foco em desenvolvimento web.
 
