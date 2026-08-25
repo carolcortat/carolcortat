@@ -21,7 +21,7 @@ Aqui estão alguns dos projetos que tenho trabalhado:
 
 - **Linguagens:** HTML, CSS, JavaScript
 - **Ferramentas:** Git, GitHub
-- **Aprendendo:** Cypress, Postman, JavaScript
+- **Aprendendo:** Cypress, Playwright, Postman, JavaScript
 
 ---
 
